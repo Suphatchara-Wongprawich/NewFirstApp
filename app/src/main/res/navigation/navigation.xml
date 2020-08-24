@@ -18,6 +18,6 @@
     <fragment
         android:id="@+id/contactFragment"
         android:name="com.example.firstapp.ContactFragment"
-        android:label="About"
+        android:label="Contact"
         tools:layout="@layout/fragment_contact" />
 </navigation>
