@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">firstapp</string>
-    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="hello_blank_fragment">"WELCOME"</string>
     <string name="about">about</string>
     <string name="contact">contact</string>
+    <string name="Addname">name</string>
+    <string name="add_name">add name</string>
+    <string name="suphatchara_wongprawich">SUPHATCHARA WONGPRAWICH</string>
 
 
 </resources>

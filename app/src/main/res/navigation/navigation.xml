@@ -20,4 +20,9 @@
         android:name="com.example.firstapp.ContactFragment"
         android:label="Contact"
         tools:layout="@layout/fragment_contact" />
+    <activity
+        android:id="@+id/newUserActivity"
+        android:name="com.example.firstapp.Newactivity"
+        android:label="NewUserActivity"
+        tools:layout="@layout/new_activity" />
 </navigation>
